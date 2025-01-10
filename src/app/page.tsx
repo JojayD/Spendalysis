@@ -18,7 +18,9 @@ export default function Home() {
 
   return (
     <div className="h-screen bg-white text-black dark:bg-neutral-800 dark:text-white">
-      <ToggleHome mode={darkMode ? "dark" : "light"} onClick={toggleDarkMode} />
+      <div className={`flex items-stretch justify-end`}>
+        <ToggleHome mode={darkMode ? "dark" : "light"} onClick={toggleDarkMode} />
+      </div>
 
       {/* Hero Section */}
       <div className="flex flex-col items-center justify-center h-full px-4 gap-2">
