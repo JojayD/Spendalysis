@@ -1,6 +1,10 @@
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
+from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
+from models import financial_model
+import pandas as pd
 # List of allowed origins (add your frontend URL here)
 import os
 
@@ -34,6 +38,8 @@ async def upload_file(file: UploadFile = File(...)):
         with open(f"uploaded_files/{file.filename}", "wb") as f:
             f.write(content)
 
+        financial_model.process_uploaded_file(file)
         return JSONResponse(content={"filename": file.filename, "message": "File uploaded successfully"})
     except Exception as e:
         return JSONResponse(content={"error": str(e)}, status_code=500)
+
