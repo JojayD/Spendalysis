@@ -32,13 +32,18 @@ def read_root():
 @app.post("/upload")
 async def upload_file(file: UploadFile = File(...)):
     try:
-        # Read file content (optional)
+        os.makedirs("uploaded_files", exist_ok=True)
         content = await file.read()
+
         # Save file or process it
         with open(f"uploaded_files/{file.filename}", "wb") as f:
             f.write(content)
+        try:
+            df,x_tfdif = financial_model.process_uploaded_file(f"uploaded_files/{file.filename}")
 
-        financial_model.process_uploaded_file(file)
+        except Exception as e:
+            print(e)
+
         return JSONResponse(content={"filename": file.filename, "message": "File uploaded successfully"})
     except Exception as e:
         return JSONResponse(content={"error": str(e)}, status_code=500)

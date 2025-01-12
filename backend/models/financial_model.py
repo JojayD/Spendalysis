@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import joblib
-
+import os
 # Function to train and save the vectorizer
 def train_vectorizer(file_path, vectorizer_path='vectorizer.joblib'):
 	"""
@@ -21,7 +21,9 @@ def train_vectorizer(file_path, vectorizer_path='vectorizer.joblib'):
 	return vectorizer
 
 
-def process_uploaded_file(file, vectorizer_path='vectorizer.joblib'):
+def process_uploaded_file(file, vectorizer_path='/Users/jojo/Downloads/Developer/spendalysis/backend/models/vectorizer.joblib'):
+	print(f"Current working directory: {os.getcwd()}")
+
 	df = pd.read_csv(file)
 
 	required_columns = {"Date", "Description", "Amount"}
@@ -31,7 +33,10 @@ def process_uploaded_file(file, vectorizer_path='vectorizer.joblib'):
 	if df['Description'].isnull().sum() > 0:
 		df['Description'].fillna('', inplace=True)
 
-	vectorizer = joblib.load(vectorizer_path)
+	try:
+		vectorizer = joblib.load(vectorizer_path)
+	except Exception as e:
+		raise ValueError(f"Error loading vectorizer: {e}")
 
 	X_tfidf = vectorizer.transform(df['Description'])
 

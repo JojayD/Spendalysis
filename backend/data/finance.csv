@@ -1,0 +1,501 @@
+Date,Description,Category,Balance,Amount
+2025-01-09,Apartment Rent,Rent,2769.5,-230.5
+2025-01-07,Concert Ticket,Entertainment,2593.08,-176.42
+2025-01-06,Train Ticket,Transportation,2422.99,-170.09
+2025-01-03,Restaurant Bill,Food,2245.45,-177.54
+2025-01-05,Apartment Rent,Rent,2169.29,-76.16
+2025-01-05,Monthly Rent Payment,Rent,1863.44,-305.85
+2025-01-03,Netflix Subscription,Entertainment,1790.97,-72.47
+2025-01-04,Monthly Rent Payment,Rent,1588.35,-202.62
+2025-01-07,Train Ticket,Transportation,1451.1,-137.25
+2025-01-10,Concert Ticket,Entertainment,1168.64,-282.46
+2025-01-02,Uber Ride,Transportation,891.6,-277.04
+2025-01-09,Amazon Purchase,Misc,574.01,-317.59
+2025-01-09,Apartment Rent,Rent,440.23,-133.78
+2025-01-05,Pharmacy Purchase,Healthcare,386.47,-53.76
+2025-01-01,Concert Ticket,Entertainment,160.91,-225.56
+2025-01-02,Starbucks Coffee,Food,87.02,-73.89
+2025-01-04,Concert Ticket,Entertainment,-259.23,-346.25
+2025-01-03,Apartment Rent,Rent,-471.23,-212.0
+2025-01-02,Uber Ride,Transportation,-605.71,-134.48
+2025-01-07,Movie Ticket,Entertainment,-660.62,-54.91
+2025-01-08,Concert Ticket,Entertainment,-671.39,-10.77
+2025-01-06,Monthly Rent Payment,Rent,-889.56,-218.17
+2025-01-05,Movie Ticket,Entertainment,-1208.71,-319.15
+2025-01-10,Health Insurance Payment,Healthcare,-1486.25,-277.54
+2025-01-08,Clothing Store,Misc,-1887.9,-401.65
+2025-01-03,Doctor Visit,Healthcare,-2340.44,-452.54
+2025-01-10,Gas Station,Transportation,-2405.43,-64.99
+2025-01-08,Apartment Rent,Rent,-2596.6,-191.17
+2025-01-01,Apartment Rent,Rent,-2662.66,-66.06
+2025-01-03,Pet Supplies,Misc,-2845.72,-183.06
+2025-01-01,Apartment Rent,Rent,-3019.59,-173.87
+2025-01-01,Gift Shop,Misc,-3069.34,-49.75
+2025-01-08,Health Insurance Payment,Healthcare,-3526.05,-456.71
+2025-01-05,Uber Ride,Transportation,-3614.14,-88.09
+2025-01-02,Doctor Visit,Healthcare,-4043.56,-429.42
+2025-01-01,Concert Ticket,Entertainment,-4257.89,-214.33
+2025-01-02,Restaurant Bill,Food,-4579.38,-321.49
+2025-01-08,Monthly Rent Payment,Rent,-4750.07,-170.69
+2025-01-09,Uber Ride,Transportation,-4849.81,-99.74
+2025-01-05,Pharmacy Purchase,Healthcare,-5171.99,-322.18
+2025-01-09,Apartment Rent,Rent,-5229.47,-57.48
+2025-01-08,Fast Food,Food,-5308.07,-78.6
+2025-01-06,Monthly Rent Payment,Rent,-5600.97,-292.9
+2025-01-08,Water Bill,Utilities,-5698.31,-97.34
+2025-01-03,Internet Bill,Utilities,-6110.36,-412.05
+2025-01-10,Doctor Visit,Healthcare,-6497.56,-387.2
+2025-01-04,Pet Supplies,Misc,-6881.35,-383.79
+2025-01-10,Clothing Store,Misc,-7055.41,-174.06
+2025-01-03,Train Ticket,Transportation,-7194.71,-139.3
+2025-01-05,Movie Ticket,Entertainment,-7566.08,-371.37
+2025-01-05,Gas Station,Transportation,-7632.35,-66.27
+2025-01-07,Monthly Rent Payment,Rent,-8055.43,-423.08
+2025-01-08,Grocery Store,Food,-8515.35,-459.92
+2025-01-10,Gas Station,Transportation,-8837.61,-322.26
+2025-01-02,Uber Ride,Transportation,-8965.93,-128.32
+2025-01-08,Doctor Visit,Healthcare,-9229.71,-263.78
+2025-01-05,Doctor Visit,Healthcare,-9607.93,-378.22
+2025-01-10,Doctor Visit,Healthcare,-9925.96,-318.03
+2025-01-04,Pharmacy Purchase,Healthcare,-9989.05,-63.09
+2025-01-05,Freelance Payment,Income,-8813.29,1175.76
+2025-01-06,Grocery Store,Food,-8975.71,-162.42
+2025-01-07,Water Bill,Utilities,-9196.32,-220.61
+2025-01-01,Clothing Store,Misc,-9641.87,-445.55
+2025-01-10,Fast Food,Food,-9922.15,-280.28
+2025-01-04,Fast Food,Food,-10340.09,-417.94
+2025-01-04,Fast Food,Food,-10788.77,-448.68
+2025-01-05,Freelance Payment,Income,-8808.87,1979.9
+2025-01-04,Grocery Store,Food,-9127.43,-318.56
+2025-01-07,Gas Station,Transportation,-9196.45,-69.02
+2025-01-01,Movie Ticket,Entertainment,-9363.93,-167.48
+2025-01-03,Train Ticket,Transportation,-9373.48,-9.55
+2025-01-03,Pharmacy Purchase,Healthcare,-9672.71,-299.23
+2025-01-09,Gas Bill,Utilities,-9881.98,-209.27
+2025-01-08,Pet Supplies,Misc,-10091.51,-209.53
+2025-01-02,Apartment Rent,Rent,-10365.9,-274.39
+2025-01-08,Starbucks Coffee,Food,-10635.5,-269.6
+2025-01-02,Health Insurance Payment,Healthcare,-10871.3,-235.8
+2025-01-08,Salary Deposit,Income,-9154.03,1717.27
+2025-01-07,Fast Food,Food,-9362.34,-208.31
+2025-01-02,Uber Ride,Transportation,-9624.7,-262.36
+2025-01-08,Pharmacy Purchase,Healthcare,-9776.72,-152.02
+2025-01-07,Gas Bill,Utilities,-9916.69,-139.97
+2025-01-05,Netflix Subscription,Entertainment,-10338.09,-421.4
+2025-01-07,Concert Ticket,Entertainment,-10743.91,-405.82
+2025-01-09,Gas Bill,Utilities,-10980.64,-236.73
+2025-01-03,Bonus Payment,Income,-9937.4,1043.24
+2025-01-06,Clothing Store,Misc,-10292.1,-354.7
+2025-01-05,Monthly Rent Payment,Rent,-10775.8,-483.7
+2025-01-09,Apartment Rent,Rent,-11005.4,-229.6
+2025-01-06,Concert Ticket,Entertainment,-11147.14,-141.74
+2025-01-01,Fast Food,Food,-11165.65,-18.51
+2025-01-02,Internet Bill,Utilities,-11628.34,-462.69
+2025-01-06,Gas Station,Transportation,-11999.54,-371.2
+2025-01-07,Salary Deposit,Income,-10395.68,1603.86
+2025-01-03,Monthly Rent Payment,Rent,-10880.37,-484.69
+2025-01-09,Netflix Subscription,Entertainment,-11126.35,-245.98
+2025-01-06,Amazon Purchase,Misc,-11148.68,-22.33
+2025-01-07,Train Ticket,Transportation,-11410.24,-261.56
+2025-01-07,Gas Bill,Utilities,-11657.56,-247.32
+2025-01-02,Pet Supplies,Misc,-11909.67,-252.11
+2025-01-02,Movie Ticket,Entertainment,-12234.67,-325.0
+2025-01-09,Gas Station,Transportation,-12245.75,-11.08
+2025-01-08,Gift Shop,Misc,-12467.17,-221.42
+2025-01-02,Grocery Store,Food,-12926.94,-459.77
+2025-01-08,Starbucks Coffee,Food,-13136.18,-209.24
+2025-01-08,Fast Food,Food,-13590.72,-454.54
+2025-01-02,Uber Ride,Transportation,-13916.16,-325.44
+2025-01-07,Concert Ticket,Entertainment,-14263.09,-346.93
+2025-01-08,Grocery Store,Food,-14726.66,-463.57
+2025-01-03,Apartment Rent,Rent,-15030.88,-304.22
+2025-01-10,Gift Shop,Misc,-15097.36,-66.48
+2025-01-10,Gas Station,Transportation,-15473.54,-376.18
+2025-01-06,Uber Ride,Transportation,-15605.48,-131.94
+2025-01-10,Salary Deposit,Income,-13644.14,1961.34
+2025-01-04,Apartment Rent,Rent,-13780.4,-136.26
+2025-01-09,Monthly Rent Payment,Rent,-13881.84,-101.44
+2025-01-05,Electric Bill,Utilities,-13922.13,-40.29
+2025-01-02,Fast Food,Food,-14380.57,-458.44
+2025-01-04,Apartment Rent,Rent,-14854.5,-473.93
+2025-01-10,Fast Food,Food,-14945.74,-91.24
+2025-01-02,Doctor Visit,Healthcare,-15024.64,-78.9
+2025-01-03,Electric Bill,Utilities,-15105.62,-80.98
+2025-01-07,Grocery Store,Food,-15444.17,-338.55
+2025-01-03,Monthly Rent Payment,Rent,-15481.69,-37.52
+2025-01-01,Health Insurance Payment,Healthcare,-15834.65,-352.96
+2025-01-07,Uber Ride,Transportation,-16002.15,-167.5
+2025-01-02,Health Insurance Payment,Healthcare,-16355.37,-353.22
+2025-01-06,Movie Ticket,Entertainment,-16784.51,-429.14
+2025-01-07,Gas Station,Transportation,-17282.75,-498.24
+2025-01-05,Amazon Purchase,Misc,-17668.28,-385.53
+2025-01-09,Bonus Payment,Income,-15801.85,1866.43
+2025-01-10,Grocery Store,Food,-15857.75,-55.9
+2025-01-04,Monthly Rent Payment,Rent,-16019.73,-161.98
+2025-01-07,Train Ticket,Transportation,-16228.83,-209.1
+2025-01-06,Freelance Payment,Income,-14547.4,1681.43
+2025-01-05,Monthly Rent Payment,Rent,-14651.44,-104.04
+2025-01-10,Health Insurance Payment,Healthcare,-15024.48,-373.04
+2025-01-10,Pharmacy Purchase,Healthcare,-15239.38,-214.9
+2025-01-05,Salary Deposit,Income,-12675.1,2564.28
+2025-01-10,Internet Bill,Utilities,-12922.86,-247.76
+2025-01-07,Salary Deposit,Income,-11555.82,1367.04
+2025-01-01,Apartment Rent,Rent,-11670.84,-115.02
+2025-01-07,Apartment Rent,Rent,-12111.97,-441.13
+2025-01-10,Clothing Store,Misc,-12171.29,-59.32
+2025-01-08,Restaurant Bill,Food,-12351.11,-179.82
+2025-01-06,Uber Ride,Transportation,-12455.93,-104.82
+2025-01-08,Monthly Rent Payment,Rent,-12564.76,-108.83
+2025-01-02,Netflix Subscription,Entertainment,-12977.62,-412.86
+2025-01-08,Gift Shop,Misc,-13051.72,-74.1
+2025-01-01,Health Insurance Payment,Healthcare,-13288.8,-237.08
+2025-01-08,Monthly Rent Payment,Rent,-13557.87,-269.07
+2025-01-08,Amazon Purchase,Misc,-13838.59,-280.72
+2025-01-04,Starbucks Coffee,Food,-13966.04,-127.45
+2025-01-01,Freelance Payment,Income,-11878.5,2087.54
+2025-01-06,Health Insurance Payment,Healthcare,-12338.8,-460.3
+2025-01-02,Uber Ride,Transportation,-12747.67,-408.87
+2025-01-05,Apartment Rent,Rent,-12999.95,-252.28
+2025-01-07,Bonus Payment,Income,-11497.93,1502.02
+2025-01-07,Monthly Rent Payment,Rent,-11800.53,-302.6
+2025-01-04,Health Insurance Payment,Healthcare,-11952.68,-152.15
+2025-01-09,Salary Deposit,Income,-9512.8,2439.88
+2025-01-09,Salary Deposit,Income,-7018.18,2494.62
+2025-01-04,Train Ticket,Transportation,-7071.56,-53.38
+2025-01-03,Train Ticket,Transportation,-7214.92,-143.36
+2025-01-06,Gift Shop,Misc,-7525.81,-310.89
+2025-01-04,Uber Ride,Transportation,-7724.92,-199.11
+2025-01-03,Fast Food,Food,-8139.12,-414.2
+2025-01-07,Freelance Payment,Income,-5437.16,2701.96
+2025-01-01,Grocery Store,Food,-5803.35,-366.19
+2025-01-08,Freelance Payment,Income,-3395.63,2407.72
+2025-01-02,Amazon Purchase,Misc,-3496.82,-101.19
+2025-01-02,Bonus Payment,Income,-2404.07,1092.75
+2025-01-04,Netflix Subscription,Entertainment,-2740.19,-336.12
+2025-01-05,Apartment Rent,Rent,-2848.27,-108.08
+2025-01-07,Pet Supplies,Misc,-2932.3,-84.03
+2025-01-07,Apartment Rent,Rent,-3226.66,-294.36
+2025-01-01,Movie Ticket,Entertainment,-3394.07,-167.41
+2025-01-09,Monthly Rent Payment,Rent,-3611.91,-217.84
+2025-01-01,Gift Shop,Misc,-3641.53,-29.62
+2025-01-03,Apartment Rent,Rent,-3924.88,-283.35
+2025-01-09,Water Bill,Utilities,-4031.03,-106.15
+2025-01-06,Concert Ticket,Entertainment,-4464.78,-433.75
+2025-01-05,Gas Station,Transportation,-4860.77,-395.99
+2025-01-03,Pet Supplies,Misc,-4899.85,-39.08
+2025-01-01,Monthly Rent Payment,Rent,-5293.22,-393.37
+2025-01-07,Bonus Payment,Income,-2562.28,2730.94
+2025-01-09,Gas Bill,Utilities,-2772.25,-209.97
+2025-01-07,Doctor Visit,Healthcare,-3153.65,-381.4
+2025-01-03,Movie Ticket,Entertainment,-3622.58,-468.93
+2025-01-03,Freelance Payment,Income,-1052.96,2569.62
+2025-01-04,Movie Ticket,Entertainment,-1242.3,-189.34
+2025-01-09,Internet Bill,Utilities,-1601.54,-359.24
+2025-01-06,Gift Shop,Misc,-1741.06,-139.52
+2025-01-02,Grocery Store,Food,-2087.44,-346.38
+2025-01-07,Grocery Store,Food,-2546.3,-458.86
+2025-01-09,Train Ticket,Transportation,-2791.7,-245.4
+2025-01-03,Uber Ride,Transportation,-3057.55,-265.85
+2025-01-07,Concert Ticket,Entertainment,-3318.16,-260.61
+2025-01-06,Internet Bill,Utilities,-3460.23,-142.07
+2025-01-05,Freelance Payment,Income,-1953.16,1507.07
+2025-01-02,Electric Bill,Utilities,-1964.57,-11.41
+2025-01-09,Monthly Rent Payment,Rent,-2159.25,-194.68
+2025-01-05,Gas Station,Transportation,-2337.83,-178.58
+2025-01-02,Health Insurance Payment,Healthcare,-2361.28,-23.45
+2025-01-06,Freelance Payment,Income,-1235.13,1126.15
+2025-01-01,Concert Ticket,Entertainment,-1497.85,-262.72
+2025-01-04,Health Insurance Payment,Healthcare,-1996.25,-498.4
+2025-01-06,Uber Ride,Transportation,-2146.12,-149.87
+2025-01-01,Monthly Rent Payment,Rent,-2593.36,-447.24
+2025-01-07,Movie Ticket,Entertainment,-2633.28,-39.92
+2025-01-03,Doctor Visit,Healthcare,-2929.18,-295.9
+2025-01-04,Amazon Purchase,Misc,-3105.24,-176.06
+2025-01-08,Water Bill,Utilities,-3483.76,-378.52
+2025-01-06,Salary Deposit,Income,-1830.32,1653.44
+2025-01-04,Salary Deposit,Income,-806.24,1024.08
+2025-01-08,Apartment Rent,Rent,-876.7,-70.46
+2025-01-03,Train Ticket,Transportation,-1359.49,-482.79
+2025-01-06,Bonus Payment,Income,294.83,1654.32
+2025-01-05,Water Bill,Utilities,131.95,-162.88
+2025-01-06,Health Insurance Payment,Healthcare,-157.01,-288.96
+2025-01-06,Fast Food,Food,-396.65,-239.64
+2025-01-04,Apartment Rent,Rent,-566.22,-169.57
+2025-01-07,Concert Ticket,Entertainment,-575.72,-9.5
+2025-01-06,Apartment Rent,Rent,-776.81,-201.09
+2025-01-09,Starbucks Coffee,Food,-1007.56,-230.75
+2025-01-03,Health Insurance Payment,Healthcare,-1026.14,-18.58
+2025-01-09,Movie Ticket,Entertainment,-1431.13,-404.99
+2025-01-03,Doctor Visit,Healthcare,-1444.49,-13.36
+2025-01-08,Amazon Purchase,Misc,-1916.27,-471.78
+2025-01-06,Apartment Rent,Rent,-2013.42,-97.15
+2025-01-07,Amazon Purchase,Misc,-2143.75,-130.33
+2025-01-02,Pet Supplies,Misc,-2272.53,-128.78
+2025-01-03,Concert Ticket,Entertainment,-2341.71,-69.18
+2025-01-06,Salary Deposit,Income,-30.92,2310.79
+2025-01-08,Gas Bill,Utilities,-48.77,-17.85
+2025-01-01,Pharmacy Purchase,Healthcare,-166.57,-117.8
+2025-01-02,Grocery Store,Food,-212.86,-46.29
+2025-01-08,Freelance Payment,Income,1411.18,1624.04
+2025-01-02,Health Insurance Payment,Healthcare,1279.58,-131.6
+2025-01-04,Uber Ride,Transportation,1163.74,-115.84
+2025-01-08,Doctor Visit,Healthcare,814.74,-349.0
+2025-01-01,Monthly Rent Payment,Rent,372.69,-442.05
+2025-01-04,Monthly Rent Payment,Rent,128.79,-243.9
+2025-01-07,Pharmacy Purchase,Healthcare,-83.53,-212.32
+2025-01-08,Apartment Rent,Rent,-458.3,-374.77
+2025-01-07,Pharmacy Purchase,Healthcare,-547.25,-88.95
+2025-01-03,Netflix Subscription,Entertainment,-917.39,-370.14
+2025-01-05,Starbucks Coffee,Food,-1117.04,-199.65
+2025-01-04,Uber Ride,Transportation,-1364.42,-247.38
+2025-01-10,Uber Ride,Transportation,-1786.22,-421.8
+2025-01-09,Electric Bill,Utilities,-1989.71,-203.49
+2025-01-07,Internet Bill,Utilities,-2310.82,-321.11
+2025-01-02,Doctor Visit,Healthcare,-2760.42,-449.6
+2025-01-03,Train Ticket,Transportation,-2766.31,-5.89
+2025-01-10,Salary Deposit,Income,-1592.3,1174.01
+2025-01-02,Fast Food,Food,-2073.04,-480.74
+2025-01-06,Gas Station,Transportation,-2511.48,-438.44
+2025-01-10,Concert Ticket,Entertainment,-2698.1,-186.62
+2025-01-01,Electric Bill,Utilities,-3065.18,-367.08
+2025-01-05,Apartment Rent,Rent,-3438.17,-372.99
+2025-01-06,Concert Ticket,Entertainment,-3844.35,-406.18
+2025-01-05,Apartment Rent,Rent,-3853.7,-9.35
+2025-01-10,Internet Bill,Utilities,-3863.32,-9.62
+2025-01-05,Restaurant Bill,Food,-4343.62,-480.3
+2025-01-08,Salary Deposit,Income,-2279.45,2064.17
+2025-01-05,Monthly Rent Payment,Rent,-2749.41,-469.96
+2025-01-07,Doctor Visit,Healthcare,-2908.89,-159.48
+2025-01-05,Monthly Rent Payment,Rent,-3055.81,-146.92
+2025-01-05,Electric Bill,Utilities,-3401.93,-346.12
+2025-01-01,Freelance Payment,Income,-1302.58,2099.35
+2025-01-07,Salary Deposit,Income,866.59,2169.17
+2025-01-01,Water Bill,Utilities,572.63,-293.96
+2025-01-01,Netflix Subscription,Entertainment,448.53,-124.1
+2025-01-05,Bonus Payment,Income,1940.96,1492.43
+2025-01-10,Clothing Store,Misc,1635.04,-305.92
+2025-01-10,Salary Deposit,Income,3905.37,2270.33
+2025-01-09,Restaurant Bill,Food,3536.64,-368.73
+2025-01-05,Monthly Rent Payment,Rent,3202.05,-334.59
+2025-01-05,Gas Bill,Utilities,2941.38,-260.67
+2025-01-07,Clothing Store,Misc,2923.36,-18.02
+2025-01-06,Fast Food,Food,2799.81,-123.55
+2025-01-01,Fast Food,Food,2717.47,-82.34
+2025-01-01,Clothing Store,Misc,2646.19,-71.28
+2025-01-05,Freelance Payment,Income,4014.52,1368.33
+2025-01-09,Monthly Rent Payment,Rent,3942.26,-72.26
+2025-01-06,Movie Ticket,Entertainment,3452.62,-489.64
+2025-01-04,Bonus Payment,Income,4544.97,1092.35
+2025-01-06,Freelance Payment,Income,5825.36,1280.39
+2025-01-05,Clothing Store,Misc,5814.02,-11.34
+2025-01-10,Grocery Store,Food,5527.77,-286.25
+2025-01-02,Movie Ticket,Entertainment,5067.42,-460.35
+2025-01-05,Pharmacy Purchase,Healthcare,4626.33,-441.09
+2025-01-09,Amazon Purchase,Misc,4317.21,-309.12
+2025-01-04,Fast Food,Food,4122.48,-194.73
+2025-01-09,Netflix Subscription,Entertainment,3822.01,-300.47
+2025-01-06,Pharmacy Purchase,Healthcare,3745.84,-76.17
+2025-01-05,Health Insurance Payment,Healthcare,3387.52,-358.32
+2025-01-06,Fast Food,Food,3037.72,-349.8
+2025-01-08,Gas Station,Transportation,2830.96,-206.76
+2025-01-10,Amazon Purchase,Misc,2528.04,-302.92
+2025-01-08,Pet Supplies,Misc,2082.22,-445.82
+2025-01-02,Train Ticket,Transportation,2069.82,-12.4
+2025-01-04,Restaurant Bill,Food,2000.69,-69.13
+2025-01-08,Apartment Rent,Rent,1840.41,-160.28
+2025-01-10,Salary Deposit,Income,2927.77,1087.36
+2025-01-05,Water Bill,Utilities,2662.31,-265.46
+2025-01-10,Doctor Visit,Healthcare,2482.19,-180.12
+2025-01-02,Grocery Store,Food,2184.7,-297.49
+2025-01-08,Amazon Purchase,Misc,2041.95,-142.75
+2025-01-09,Movie Ticket,Entertainment,1962.34,-79.61
+2025-01-09,Uber Ride,Transportation,1865.16,-97.18
+2025-01-06,Internet Bill,Utilities,1827.9,-37.26
+2025-01-06,Doctor Visit,Healthcare,1751.01,-76.89
+2025-01-10,Train Ticket,Transportation,1258.53,-492.48
+2025-01-08,Netflix Subscription,Entertainment,848.91,-409.62
+2025-01-09,Netflix Subscription,Entertainment,718.93,-129.98
+2025-01-02,Uber Ride,Transportation,354.89,-364.04
+2025-01-02,Apartment Rent,Rent,51.43,-303.46
+2025-01-06,Netflix Subscription,Entertainment,10.18,-41.25
+2025-01-07,Movie Ticket,Entertainment,-229.02,-239.2
+2025-01-04,Uber Ride,Transportation,-342.13,-113.11
+2025-01-07,Doctor Visit,Healthcare,-773.41,-431.28
+2025-01-09,Amazon Purchase,Misc,-825.35,-51.94
+2025-01-09,Concert Ticket,Entertainment,-872.67,-47.32
+2025-01-08,Salary Deposit,Income,1318.31,2190.98
+2025-01-05,Salary Deposit,Income,3417.77,2099.46
+2025-01-07,Freelance Payment,Income,5956.59,2538.82
+2025-01-02,Concert Ticket,Entertainment,5499.1,-457.49
+2025-01-10,Monthly Rent Payment,Rent,5124.73,-374.37
+2025-01-05,Freelance Payment,Income,7458.99,2334.26
+2025-01-02,Train Ticket,Transportation,7348.3,-110.69
+2025-01-05,Electric Bill,Utilities,7198.38,-149.92
+2025-01-01,Gas Station,Transportation,7014.63,-183.75
+2025-01-07,Doctor Visit,Healthcare,6542.28,-472.35
+2025-01-02,Salary Deposit,Income,8080.25,1537.97
+2025-01-06,Monthly Rent Payment,Rent,8074.49,-5.76
+2025-01-06,Clothing Store,Misc,7895.7,-178.79
+2025-01-01,Gas Bill,Utilities,7808.07,-87.63
+2025-01-02,Salary Deposit,Income,9992.86,2184.79
+2025-01-01,Pharmacy Purchase,Healthcare,9716.5,-276.36
+2025-01-10,Movie Ticket,Entertainment,9697.25,-19.25
+2025-01-09,Uber Ride,Transportation,9559.53,-137.72
+2025-01-10,Pharmacy Purchase,Healthcare,9309.13,-250.4
+2025-01-05,Bonus Payment,Income,11210.78,1901.65
+2025-01-01,Monthly Rent Payment,Rent,11163.25,-47.53
+2025-01-03,Concert Ticket,Entertainment,10840.06,-323.19
+2025-01-05,Bonus Payment,Income,12517.23,1677.17
+2025-01-07,Gift Shop,Misc,12404.86,-112.37
+2025-01-08,Netflix Subscription,Entertainment,12356.65,-48.21
+2025-01-03,Water Bill,Utilities,11917.16,-439.49
+2025-01-09,Freelance Payment,Income,14218.49,2301.33
+2025-01-01,Gas Bill,Utilities,13905.33,-313.16
+2025-01-08,Doctor Visit,Healthcare,13429.24,-476.09
+2025-01-01,Apartment Rent,Rent,13393.77,-35.47
+2025-01-03,Clothing Store,Misc,12907.84,-485.93
+2025-01-10,Bonus Payment,Income,14440.13,1532.29
+2025-01-09,Internet Bill,Utilities,14080.96,-359.17
+2025-01-09,Apartment Rent,Rent,13855.08,-225.88
+2025-01-08,Netflix Subscription,Entertainment,13768.44,-86.64
+2025-01-10,Netflix Subscription,Entertainment,13552.0,-216.44
+2025-01-02,Train Ticket,Transportation,13481.77,-70.23
+2025-01-06,Pharmacy Purchase,Healthcare,13276.83,-204.94
+2025-01-04,Clothing Store,Misc,13075.26,-201.57
+2025-01-02,Gas Bill,Utilities,12784.04,-291.22
+2025-01-10,Health Insurance Payment,Healthcare,12695.98,-88.06
+2025-01-01,Electric Bill,Utilities,12495.02,-200.96
+2025-01-01,Concert Ticket,Entertainment,12394.48,-100.54
+2025-01-05,Freelance Payment,Income,13879.1,1484.62
+2025-01-04,Pharmacy Purchase,Healthcare,13603.33,-275.77
+2025-01-10,Grocery Store,Food,13312.51,-290.82
+2025-01-06,Gas Bill,Utilities,12836.5,-476.01
+2025-01-01,Monthly Rent Payment,Rent,12393.14,-443.36
+2025-01-08,Doctor Visit,Healthcare,12206.36,-186.78
+2025-01-02,Internet Bill,Utilities,11749.27,-457.09
+2025-01-06,Restaurant Bill,Food,11700.84,-48.43
+2025-01-07,Doctor Visit,Healthcare,11520.56,-180.28
+2025-01-02,Gift Shop,Misc,11168.84,-351.72
+2025-01-06,Freelance Payment,Income,13626.84,2458.0
+2025-01-06,Doctor Visit,Healthcare,13469.69,-157.15
+2025-01-05,Apartment Rent,Rent,13360.9,-108.79
+2025-01-01,Restaurant Bill,Food,13175.0,-185.9
+2025-01-02,Monthly Rent Payment,Rent,12979.74,-195.26
+2025-01-09,Doctor Visit,Healthcare,12483.72,-496.02
+2025-01-05,Uber Ride,Transportation,12339.97,-143.75
+2025-01-06,Amazon Purchase,Misc,12265.14,-74.83
+2025-01-08,Internet Bill,Utilities,12029.67,-235.47
+2025-01-03,Doctor Visit,Healthcare,11871.94,-157.73
+2025-01-06,Salary Deposit,Income,13897.09,2025.15
+2025-01-09,Pet Supplies,Misc,13782.87,-114.22
+2025-01-03,Electric Bill,Utilities,13683.49,-99.38
+2025-01-09,Health Insurance Payment,Healthcare,13588.13,-95.36
+2025-01-03,Health Insurance Payment,Healthcare,13211.58,-376.55
+2025-01-05,Electric Bill,Utilities,13163.92,-47.66
+2025-01-10,Restaurant Bill,Food,12684.32,-479.6
+2025-01-03,Health Insurance Payment,Healthcare,12222.1,-462.22
+2025-01-02,Amazon Purchase,Misc,12152.97,-69.13
+2025-01-09,Apartment Rent,Rent,11892.5,-260.47
+2025-01-03,Movie Ticket,Entertainment,11873.17,-19.33
+2025-01-02,Uber Ride,Transportation,11602.89,-270.28
+2025-01-04,Netflix Subscription,Entertainment,11103.38,-499.51
+2025-01-08,Salary Deposit,Income,12817.02,1713.64
+2025-01-06,Monthly Rent Payment,Rent,12468.98,-348.04
+2025-01-04,Clothing Store,Misc,12267.96,-201.02
+2025-01-09,Pet Supplies,Misc,12006.7,-261.26
+2025-01-04,Gas Bill,Utilities,11849.22,-157.48
+2025-01-10,Movie Ticket,Entertainment,11741.59,-107.63
+2025-01-05,Pharmacy Purchase,Healthcare,11320.09,-421.5
+2025-01-10,Salary Deposit,Income,13990.78,2670.69
+2025-01-04,Pharmacy Purchase,Healthcare,13564.84,-425.94
+2025-01-05,Restaurant Bill,Food,13374.81,-190.03
+2025-01-05,Internet Bill,Utilities,13214.23,-160.58
+2025-01-03,Restaurant Bill,Food,12858.53,-355.7
+2025-01-06,Health Insurance Payment,Healthcare,12739.38,-119.15
+2025-01-09,Pharmacy Purchase,Healthcare,12295.43,-443.95
+2025-01-08,Train Ticket,Transportation,12012.37,-283.06
+2025-01-03,Pharmacy Purchase,Healthcare,11630.68,-381.69
+2025-01-02,Uber Ride,Transportation,11443.91,-186.77
+2025-01-01,Fast Food,Food,11200.01,-243.9
+2025-01-03,Monthly Rent Payment,Rent,10765.39,-434.62
+2025-01-10,Internet Bill,Utilities,10616.33,-149.06
+2025-01-06,Gas Bill,Utilities,10463.5,-152.83
+2025-01-09,Pharmacy Purchase,Healthcare,10407.76,-55.74
+2025-01-08,Pet Supplies,Misc,9958.54,-449.22
+2025-01-06,Freelance Payment,Income,11186.41,1227.87
+2025-01-03,Monthly Rent Payment,Rent,11152.08,-34.33
+2025-01-01,Monthly Rent Payment,Rent,11116.26,-35.82
+2025-01-07,Apartment Rent,Rent,11064.25,-52.01
+2025-01-08,Gift Shop,Misc,10588.08,-476.17
+2025-01-05,Uber Ride,Transportation,10270.02,-318.06
+2025-01-06,Doctor Visit,Healthcare,9817.97,-452.05
+2025-01-07,Netflix Subscription,Entertainment,9748.04,-69.93
+2025-01-05,Concert Ticket,Entertainment,9497.97,-250.07
+2025-01-07,Internet Bill,Utilities,9460.3,-37.67
+2025-01-07,Monthly Rent Payment,Rent,9368.17,-92.13
+2025-01-02,Pet Supplies,Misc,9265.98,-102.19
+2025-01-08,Salary Deposit,Income,10702.32,1436.34
+2025-01-10,Monthly Rent Payment,Rent,10229.34,-472.98
+2025-01-06,Internet Bill,Utilities,10067.03,-162.31
+2025-01-03,Netflix Subscription,Entertainment,9910.98,-156.05
+2025-01-06,Concert Ticket,Entertainment,9787.19,-123.79
+2025-01-04,Health Insurance Payment,Healthcare,9768.65,-18.54
+2025-01-10,Netflix Subscription,Entertainment,9319.99,-448.66
+2025-01-05,Freelance Payment,Income,11495.16,2175.17
+2025-01-03,Doctor Visit,Healthcare,11309.62,-185.54
+2025-01-04,Starbucks Coffee,Food,11155.13,-154.49
+2025-01-06,Pet Supplies,Misc,10932.23,-222.9
+2025-01-01,Clothing Store,Misc,10824.31,-107.92
+2025-01-03,Restaurant Bill,Food,10383.36,-440.95
+2025-01-09,Grocery Store,Food,10042.82,-340.54
+2025-01-02,Uber Ride,Transportation,9983.91,-58.91
+2025-01-04,Amazon Purchase,Misc,9833.59,-150.32
+2025-01-04,Grocery Store,Food,9351.25,-482.34
+2025-01-06,Gift Shop,Misc,9230.91,-120.34
+2025-01-09,Grocery Store,Food,9132.77,-98.14
+2025-01-06,Salary Deposit,Income,10852.24,1719.47
+2025-01-02,Salary Deposit,Income,12453.32,1601.08
+2025-01-09,Apartment Rent,Rent,12388.74,-64.58
+2025-01-03,Pharmacy Purchase,Healthcare,12149.7,-239.04
+2025-01-07,Pet Supplies,Misc,11877.19,-272.51
+2025-01-04,Netflix Subscription,Entertainment,11609.94,-267.25
+2025-01-03,Internet Bill,Utilities,11281.79,-328.15
+2025-01-10,Freelance Payment,Income,12536.74,1254.95
+2025-01-10,Train Ticket,Transportation,12202.38,-334.36
+2025-01-07,Movie Ticket,Entertainment,11826.8,-375.58
+2025-01-02,Restaurant Bill,Food,11496.94,-329.86
+2025-01-06,Netflix Subscription,Entertainment,11305.99,-190.95
+2025-01-06,Doctor Visit,Healthcare,10914.48,-391.51
+2025-01-05,Fast Food,Food,10461.13,-453.35
+2025-01-02,Train Ticket,Transportation,10412.39,-48.74
+2025-01-07,Netflix Subscription,Entertainment,10007.49,-404.9
+2025-01-08,Movie Ticket,Entertainment,9723.3,-284.19
+2025-01-07,Concert Ticket,Entertainment,9561.87,-161.43
+2025-01-02,Health Insurance Payment,Healthcare,9079.07,-482.8
+2025-01-02,Water Bill,Utilities,9021.18,-57.89
+2025-01-06,Health Insurance Payment,Healthcare,8614.89,-406.29
+2025-01-01,Pharmacy Purchase,Healthcare,8220.59,-394.3
+2025-01-09,Bonus Payment,Income,10699.3,2478.71
+2025-01-07,Movie Ticket,Entertainment,10226.78,-472.52
+2025-01-07,Pet Supplies,Misc,10057.98,-168.8
+2025-01-06,Uber Ride,Transportation,9693.87,-364.11
+2025-01-03,Netflix Subscription,Entertainment,9405.46,-288.41
+2025-01-06,Fast Food,Food,9024.7,-380.76
+2025-01-04,Gas Station,Transportation,8874.84,-149.86
+2025-01-04,Starbucks Coffee,Food,8669.41,-205.43
+2025-01-04,Freelance Payment,Income,9871.22,1201.81
+2025-01-09,Amazon Purchase,Misc,9467.17,-404.05
+2025-01-03,Monthly Rent Payment,Rent,9444.27,-22.9
+2025-01-01,Pet Supplies,Misc,8994.75,-449.52
+2025-01-06,Gift Shop,Misc,8552.18,-442.57
+2025-01-07,Concert Ticket,Entertainment,8222.35,-329.83
+2025-01-02,Bonus Payment,Income,9954.3,1731.95
+2025-01-10,Concert Ticket,Entertainment,9856.73,-97.57
+2025-01-08,Freelance Payment,Income,12532.91,2676.18
+2025-01-03,Gas Bill,Utilities,12367.29,-165.62
+2025-01-07,Grocery Store,Food,12091.73,-275.56
+2025-01-04,Doctor Visit,Healthcare,11706.53,-385.2
+2025-01-07,Gift Shop,Misc,11604.98,-101.55
+2025-01-07,Gas Station,Transportation,11290.52,-314.46
+2025-01-10,Clothing Store,Misc,11285.04,-5.48
+2025-01-06,Freelance Payment,Income,12628.44,1343.4
