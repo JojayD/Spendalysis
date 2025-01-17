@@ -2,7 +2,7 @@ import os
 
 import joblib
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
@@ -93,7 +93,7 @@ def train_model(df ,vectorizer_path='/Users/jojo/Downloads/Developer/spendalysis
         data['encoded_category'] = encoder.transform(data['Category'])
 
         # Train the Random Forest Regressor
-        model = RandomForestRegressor(n_estimators = 100 ,random_state = 42)
+        model = RandomForestClassifier(n_estimators = 100 ,random_state = 42)
         X_train ,X_test ,y_train ,y_test = train_test_split(
             X ,data['encoded_category'] ,test_size = 0.2 ,random_state = 42
         )
